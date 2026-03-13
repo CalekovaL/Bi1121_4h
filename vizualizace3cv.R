@@ -21,3 +21,5 @@ ggplot(data = p, aes(x = flipper_len,
   labs(title = "Dependency of body mass on flipper length",
        x = "Flipper length (cm)",
        y = "Body mass (g)")
+str(p)
+#ak má súbor hviezdičku, je tam zmena 
